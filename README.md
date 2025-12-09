@@ -6,13 +6,13 @@ Unlike standard YOLO export tools, this script includes a custom visualization e
 
 ## 📋 Table of Contents
 
-  * [Overview](https://www.google.com/search?q=%23overview)
-  * [Key Features](https://www.google.com/search?q=%23key-features)
-  * [Prerequisites](https://www.google.com/search?q=%23prerequisites)
-  * [Configuration](https://www.google.com/search?q=%23configuration)
-  * [Visualization Details](https://www.google.com/search?q=%23visualization-details)
-  * [Usage](https://www.google.com/search?q=%23usage)
-  * [Recommended Dataset](https://www.google.com/search?q=%23usage)
+  * [Overview]([https://www.google.com/search?q=%23overview](https://github.com/BogdanCTU/Machine-Learning-YOLO11-Testing/blob/main/README.md#overview))
+  * [Key Features](https://github.com/BogdanCTU/Machine-Learning-YOLO11-Testing/blob/main/README.md#key-features)
+  * [Prerequisites](https://github.com/BogdanCTU/Machine-Learning-YOLO11-Testing/blob/main/README.md#prerequisites)
+  * [Configuration](https://github.com/BogdanCTU/Machine-Learning-YOLO11-Testing/blob/main/README.md#configuration)
+  * [Visualization Details](https://github.com/BogdanCTU/Machine-Learning-YOLO11-Testing/blob/main/README.md#visualization-details)
+  * [Usage](https://github.com/BogdanCTU/Machine-Learning-YOLO11-Testing/blob/main/README.md#usage)
+  * [Recommended Dataset](https://github.com/BogdanCTU/Machine-Learning-YOLO11-Testing/blob/main/README.md#recommended-dataset)
 
 -----
 
