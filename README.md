@@ -6,7 +6,7 @@ Unlike standard YOLO export tools, this script includes a custom visualization e
 
 ## 📋 Table of Contents
 
-  * [Overview]([https://www.google.com/search?q=%23overview](https://github.com/BogdanCTU/Machine-Learning-YOLO11-Testing/blob/main/README.md#overview))
+  * [Overview](https://github.com/BogdanCTU/Machine-Learning-YOLO11-Testing/blob/main/README.md#overview)
   * [Key Features](https://github.com/BogdanCTU/Machine-Learning-YOLO11-Testing/blob/main/README.md#key-features)
   * [Prerequisites](https://github.com/BogdanCTU/Machine-Learning-YOLO11-Testing/blob/main/README.md#prerequisites)
   * [Configuration](https://github.com/BogdanCTU/Machine-Learning-YOLO11-Testing/blob/main/README.md#configuration)
