@@ -12,7 +12,8 @@ Unlike standard YOLO export tools, this script includes a custom visualization e
   * [Configuration](https://www.google.com/search?q=%23configuration)
   * [Visualization Details](https://www.google.com/search?q=%23visualization-details)
   * [Usage](https://www.google.com/search?q=%23usage)
-  * [Reccomended Dataset](https://www.google.com/search?q=%23usage)
+  * [Recommended Dataset](https://www.google.com/search?q=%23usage)
+
 -----
 
 ## Overview
@@ -129,9 +130,9 @@ Accuracy (mAP@50): 0.9420
 
 -----
 
-## Reccomended Dataset
+## Recommended Dataset
 
-[Overview](https://universe.roboflow.com/radu-oprea-r4xnm/traffic-signs-detection-europe) 
+[Traffic Signs Europe by "Radu Oprea"](https://universe.roboflow.com/radu-oprea-r4xnm/traffic-signs-detection-europe) 
 
 <img width="1202" height="442" alt="image" src="https://github.com/user-attachments/assets/55de507b-ec3c-43eb-8c7e-ea9b6aeee31c" />
 
